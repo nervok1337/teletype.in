@@ -21,7 +21,7 @@ where type = 'списание'
 [[and {{date_filter}}]]
 group by category
 order by total_expense desc;
-````
+```
 
 График
 
