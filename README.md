@@ -3,9 +3,9 @@
 
 Настройки:
 
-![Pasted image 20260427002328](images/Pasted image 20260427002328.png)
+![Pasted image 20260427002328](<images/Pasted image 20260427002328.png>)
 
-![Pasted image 20260427002339](images/Pasted image 20260427002339.png)
+![Pasted image 20260427002339](<images/Pasted image 20260427002339.png>)
 
 ### Распределение суммарных трат по категориям 
 
@@ -25,7 +25,7 @@ order by total_expense desc;
 
 График
 
-![Pasted image 20260427001143](images/Pasted image 20260427001143.png)
+![Pasted image 20260427001143](<images/Pasted image 20260427001143.png>)
 
 ### Суммарный приход/расход по месяцам
 
@@ -67,7 +67,7 @@ order by
 
 График:
 
-![Pasted image 20260427001302](images/Pasted image 20260427001302.png)
+![Pasted image 20260427001302](<images/Pasted image 20260427001302.png>)
 
 ### Куммулятивная сумма средств по неделям
 
@@ -111,7 +111,7 @@ order by
 
 График:
 
-![Pasted image 20260427001342](images/Pasted image 20260427001342.png)
+![Pasted image 20260427001342](<images/Pasted image 20260427001342.png>)
 
 ### Индикатор среднемесячных трат
 
@@ -137,7 +137,7 @@ from (
 
 График:
 
-![Pasted image 20260427001455](images/Pasted image 20260427001455.png)
+![Pasted image 20260427001455](<images/Pasted image 20260427001455.png>)
 
 ### Распределения суммарных трат по категориям и месяцам
 
@@ -181,18 +181,18 @@ order by
 
 График:
 
-![Pasted image 20260427001605](images/Pasted image 20260427001605.png)
+![Pasted image 20260427001605](<images/Pasted image 20260427001605.png>)
 
 ### Дашборд
 
-![Pasted image 20260427001807](images/Pasted image 20260427001807.png)
+![Pasted image 20260427001807](<images/Pasted image 20260427001807.png>)
 
 #### Экшен-фильтр
 
-![Pasted image 20260427001846](images/Pasted image 20260427001846.png)
+![Pasted image 20260427001846](<images/Pasted image 20260427001846.png>)
 
 * К сожалению по дате не получилось сделать, почему то, он работает только если вручную выбирать дату
 
-![Pasted image 20260427002040](images/Pasted image 20260427002040.png)
+![Pasted image 20260427002040](<images/Pasted image 20260427002040.png>)
 
-![Pasted image 20260427002054](images/Pasted image 20260427002054.png)
+![Pasted image 20260427002054](<images/Pasted image 20260427002054.png>)
